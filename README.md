@@ -122,7 +122,11 @@ Without those steps the notation is a model-building possibility, not evidence f
 
 ## Website deployment
 
-The site is entirely static and can be opened from `index.html`. The included GitHub Actions workflow deploys the repository root to GitHub Pages on pushes to `main`. If Pages has not previously been enabled, open **Settings → Pages → Build and deployment → GitHub Actions**; the first deployment may require that repository-level setting. Check the Actions tab for actual publication status.
+The site is entirely static and can be opened directly from `index.html`. The included GitHub Actions workflow deploys the repository root to GitHub Pages on pushes to `main`.
+
+**Deployment status (26 October 2026): ACTION REQUIRED.** The first workflow run [#1](https://github.com/enuminous/Standard-Model-Reduction/actions/runs/40396210227) failed at `actions/configure-pages@v5`. GitHub reported `Create Pages site failed: Resource not accessible by integration`, because the Pages site has not yet been configured and the workflow token cannot enable it.
+
+**Repository owner action:** Open [Settings → Pages](https://github.com/enuminous/Standard-Model-Reduction/settings/pages), select **Build and deployment → Source: GitHub Actions**, then open [Actions](https://github.com/enuminous/Standard-Model-Reduction/actions/workflows/pages.yml) and rerun the deployment workflow if it does not start automatically. This is a repository administration setting that must be set by someone with the appropriate access. The HTML, README and deployment workflow are already committed.
 
 **Expected website address:** https://enuminous.github.io/Standard-Model-Reduction/
 

@@ -20,6 +20,7 @@
 - [Files](#files)
 - [Website deployment](#website-deployment)
 - [Research standards and contributions](#research-standards-and-contributions)
+- [Connected physics research units](#connected-physics-research-units)
 
 
 </details>
@@ -165,3 +166,15 @@ The site is entirely static and can be opened directly from `index.html`. The in
 Criticism, attempted falsification, independent reproduction, and mathematical corrections are welcome. Please cite a concrete equation, an explicit failing calculation, and ideally an executable counterexample. Report scientific claims as **PASS**, **FAIL**, or **UNRESOLVED**, never as established solely because the notation is elegant or concise.
 
 The manuscript links sources including CERN teaching material and Particle Data Group reviews. This repository is an independent reconstruction and research exercise; it does not claim CERN, PDG, or other institutional endorsement.
+
+<!-- ENUMINOUS-RESEARCH-CHAIN:START -->
+## Connected physics research units
+
+**Established-theory reconstructions and baseline laboratories:** [Standard-Model-Reduction](https://github.com/enuminous/Standard-Model-Reduction) · [Higgs-Gauge-Lab](https://github.com/enuminous/Higgs-Gauge-Lab) · [EFMW-Physics-Lab](https://github.com/enuminous/EFMW-Physics-Lab)
+
+**Proposed quantum-geometry bridge:** [Base888-Quantum-Geometry](https://github.com/enuminous/Base888-Quantum-Geometry) · [QST-001](https://github.com/enuminous/Quantum-Gravity/blob/main/QST-001.md) · [QST-002](https://github.com/enuminous/QST/blob/main/QST-002.md)
+
+**EFMW definitions, pressure-cycle model, and spacetime investigations:** [Canonical 102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean review](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [RHC-001: Rahasya pressure-cycle formalization](https://github.com/enuminous/papers/blob/main/RHC-001-EFMW-Rahasya-Pressure-Cycle-Formalization.md) · [EFMW-Lagrangian](https://github.com/enuminous/EFMW-Lagrangian) · [Cosmology](https://github.com/enuminous/Cosmology)
+
+> **Interpretation:** Cross-links represent research dependencies and comparisons. The Standard Model and continuum gravity are inputs in current QST calculations; their emergence from Base888 and the physical status of the pressure cycle remain **UNRESOLVED**.
+<!-- ENUMINOUS-RESEARCH-CHAIN:END -->

@@ -1,5 +1,35 @@
 # Standard Model Reduction
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/Standard-Model-Reduction) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#fundamental-physics-cosmology-and-quantum-geometry)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [What this project does](#what-this-project-does)
+- [Three-line classical Standard Model](#three-line-classical-standard-model)
+  - [Tree-level consequences](#tree-level-consequences)
+- [What has been verified](#what-has-been-verified)
+  - [Reproduce the checks](#reproduce-the-checks)
+- [Physical parameter budget](#physical-parameter-budget)
+- [The 39-strata hypothesis: research, not result](#the-39-strata-hypothesis-research-not-result)
+- [Files](#files)
+- [Website deployment](#website-deployment)
+- [Research standards and contributions](#research-standards-and-contributions)
+
+
+</details>
+
+**Related repositories:** [Higgs-Gauge-Lab](https://github.com/enuminous/Higgs-Gauge-Lab) · [EFMW-Physics-Lab](https://github.com/enuminous/EFMW-Physics-Lab) · [Base888-Quantum-Geometry](https://github.com/enuminous/Base888-Quantum-Geometry) · [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) · [QST](https://github.com/enuminous/QST) · [EFMW-Grid](https://github.com/enuminous/EFMW-Grid) · [Ligo_EFMW_Search](https://github.com/enuminous/Ligo_EFMW_Search) · [EFMW](https://github.com/enuminous/EFMW) · [papers](https://github.com/enuminous/papers)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 [![Research status](https://img.shields.io/badge/status-classical%20SM%20reconstruction-69e1d0)](three_line_standard_model_geometric_reduction.md)
 [![Verification](https://img.shields.io/badge/verification-16%20targeted%20checks-8ee2b4)](standard_model_check_results.txt)
 [![39-strata](https://img.shields.io/badge/39--strata-unresolved-ffc17a)](three_line_standard_model_geometric_reduction.md)
